@@ -26,15 +26,15 @@ section{
     padding: 1%;
 }
 #Asphalt9{
-    background: #c102f6fd;
+    background: #c102f6cb;
 }
 #Asphalt8{
-    background: #e0040bfd;
+    background: #ff0008de;
 }
 .skin{
     width: 15%;
     height: 30vh;
-    background: #fff;
+    background: #442d2d;
     float: left;
     margin-left: 4.16%;
     margin-top: 0.5vh;
